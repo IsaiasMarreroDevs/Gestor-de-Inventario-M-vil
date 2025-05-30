@@ -64,10 +64,16 @@ Aplicación móvil desarrollada en **Flutter** y **Dart** que permite registrar,
 ### 📁 Estructura del Proyecto
 
 Gestor de Inventario Movil/
+
 ├── lib/                         # Código principal en Dart
+
 │   └── main.dart                # Punto de entrada de la aplicación
+
 ├── android/                     # Código nativo para Android
+
 ├── pubspec.yaml                 # Configuración de dependencias y metadatos
+
 ├── Gestor de Inventario.apk     # APK para instalación manual
+
 └── README.md                    # Documentación del proyecto
 
